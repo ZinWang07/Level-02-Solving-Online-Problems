@@ -1,0 +1,30 @@
+#include <iostream>
+#include <string>
+using namespace std;
+bool check()
+{
+    int n; cin>>n;
+    string s; cin>>s;
+
+    int x=0,y=0;
+    for(int i=0;i<n;i++)
+    {
+        if(s[i]=='U') y++;
+        else if(s[i]=='R') x++;
+        else if(s[i]=='D') y--;
+        else x--;
+
+        if(x==1 && y==1) return true;
+    }
+    return false;
+}
+int main()
+{
+    int t; cin>>t;
+    while(t--)
+    {
+        if(check()) cout<<"YES\n";
+        else cout<<"NO\n";
+    }
+    return 0;
+}
