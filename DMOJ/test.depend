@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1771589139 source:d:\c++\project\test\main.cpp
+	<iostream>
+	<string>
+
+1790068140 source:d:\c++\project\test\demsouoc.cpp
+	<bits/stdc++.h>
+
+1790045531 source:d:\c++\project\test\checkprimenumadvanced.cpp
+	<bits/stdc++.h>
+
+1790046101 source:d:\c++\project\test\timuocsocuahopso.cpp
+	<iostream>
+	<cmath>
+	<numeric>
+
+1790168554 source:d:\c++\project\test\butchimau.cpp
+	<bits/stdc++.h>
+
+1790254727 source:d:\c++\project\test\xaunhiphan.cpp
+	<bits/stdc++.h>
+
+1790255571 source:d:\c++\project\test\tongtapcon.cpp
+	<bits/stdc++.h>
+
+1790406067 source:d:\c++\project\test\xephau.cpp
+	<bits/stdc++.h>
+
+1790411596 source:d:\c++\project\test\tapcon.cpp
+	<bits/stdc++.h>
+
+1790429945 source:d:\c++\project\test\truyvandem.cpp
+	<bits/stdc++.h>
+

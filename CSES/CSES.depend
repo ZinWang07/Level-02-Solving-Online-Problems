@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1771920769 source:d:\c++\project\cses\weird algorithm.cpp
+	<iostream>
+	<algorithm>
+
+1771921139 source:d:\c++\project\cses\missin_number.cpp
+	<iostream>
+	<algorithm>
+
+1771921741 source:d:\c++\project\cses\repetitions.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
+1790599060 source:d:\c++\project\cses\distinct numbers.cpp
+	<bits/stdc++.h>
+
+1790602079 source:d:\c++\project\cses\sum of two values.cpp
+	<bits/stdc++.h>
+
+1790904996 source:d:\c++\project\cses\trailing zeros.cpp
+	<bits/stdc++.h>
+
+1791019299 source:d:\c++\project\cses\shortest routes i.cpp
+	<bits/stdc++.h>
+
+1791019820 source:d:\c++\project\cses\shortest routes ii.cpp
+	<bits/stdc++.h>
+
+1791030912 source:d:\c++\project\cses\dice combinations.cpp
+	<bits/stdc++.h>
+
